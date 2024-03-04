@@ -1,0 +1,97 @@
+/* style.css */
+
+.header{
+    height: 55px;
+    background-color: rgb(0, 187, 221);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #dedede; 
+
+    z-index: 100;
+
+    box-shadow:
+    6.7px 6.7px 5.3px rgba(0, 0, 0, 0.012),
+    22.3px 22.3px 17.9px rgba(0, 0, 0, 0.018),
+    100px 100px 80px rgba(0, 0, 0, 0.03)
+  ;
+}
+
+.botao-header{
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: rgb(0, 187, 221);
+    display: flex;
+    align-items: center;
+    padding-left: 25px;
+    font-size: 30px;
+    font-weight: 500;
+    font-style: italic;
+    cursor: pointer;
+    border-width: 0;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h2 {
+    color: #333;
+    padding-bottom: 25px;
+}
+
+p {
+    color: #555;
+}
+
+h4 {
+    color: rgb(1, 199, 234);
+}
+
+hr {
+    border-color: #fffcfc;
+}
+
+.corpo{
+    padding-top: 60px;
+}
+
+#searchInput {
+    margin-bottom: 10px;
+}
+
+.barra{
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.botao{
+    padding: 10px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: rgb(47, 180, 203);
+    cursor: pointer; /* Cursor do mouse */
+    background-color: rgb(47, 180, 203);
+    color: white;
+    font-weight: bold;
+}
+
+.botao:hover {
+    background-color: rgb(50, 192, 218); /* Cor de fundo */
+    border-color: rgb(50, 192, 218);
+    color: white; /* Cor do texto */
+    transition-duration: 0.2s;
+}
+
