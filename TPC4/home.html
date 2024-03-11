@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="Website Icon" type="jpg" href="perfil.jpg" class="website-icon"> <!-- Muda o icone do site -->
+    <script src="https://kit.fontawesome.com/c567694de5.js" crossorigin="anonymous"></script> <!-- Site aonde foi tirado o icone para parar a musica -->
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap" rel="stylesheet">
+    
+    <title>Rúben Ganança</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <span>Rúben Ganança</span>
+            <button onclick="goToAboutPage()">Sobre Mim</button>
+            <img src="perfil.jpg" alt="Seu Avatar">
+        </div>
+    </header>
+
+    <div class = "conteudo">
+
+        <div class="section">
+            <div class="esquerda" id="musica">
+                <h2>Música</h2>
+                <button class="play-button" data-audio-id="music-player1">Taylor</button>
+                <button class="play-button" data-audio-id="music-player2">Lana</button>
+                <button class="play-button" data-audio-id="music-player3">Troye</button>
+                <button class="play-button" data-audio-id="music-player4">Miley</button>
+                <button class="play-button" data-audio-id="music-player5">Ariana</button>
+                <div class="botao-pause">
+                    <button class="pause-button"><i class="fa-solid fa-circle-stop"></i></button>
+                </div>
+            </div> 
+
+            <div class="slider-musica" id="carrossel1">
+                <div class="slider"> 
+                    <img id="slide-musica1" src="musica\musica1.jpeg">
+                    <audio id="music-player1" src="songs\StyleTV.mp3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <img id="slide-musica2" src="musica\musica2.jpeg">
+                    <audio id="music-player2" src="songs\Ride.mp3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <img id="slide-musica3" src="musica\musica3.jpeg">
+                    <audio id="music-player3" src="songs\Easy.mp3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <img id="slide-musica4" src="musica\musica4.jpeg">
+                    <audio id="music-player4" src="songs\WeCantStop.mp3">
+                        Your browser does not support the audio element.
+                    </audio>
+                    <img id="slide-musica5" src="musica\musica5.jpeg">
+                    <audio id="music-player5" src="songs\NTLTC.mp3">
+                        Your browser does not support the audio element.
+                    </audio>
+
+                </div>
+                <div class="slider-nav">
+                    <a href="#slide-musica1"></a>
+                    <a href="#slide-musica2"></a>
+                    <a href="#slide-musica3"></a>
+                    <a href="#slide-musica4"></a>
+                    <a href="#slide-musica5"></a>
+                </div>
+            </div>
+        </div>
+
+        <hr class="section-divider">
+
+        <div class="section">
+            <div class="esquerda" id="madeira">
+                <h2>Madeira</h2>
+            </div>
+
+            <div class="slider-madeira" id="carrossel2">
+                <div class="slider"> 
+                    <img id="slide-madeira1" src="madeira\areeiro.jpg">
+                    <img id="slide-madeira2" src="madeira\praia.jpg">
+                    <img id="slide-madeira3" src="madeira\amigos.jpg">
+                    <img id="slide-madeira4" src="madeira\amigos2.jpg">
+                    <img id="slide-madeira5" src="madeira\areeiro2.jpg">
+                </div>
+                <div class="slider-nav">
+                    <a href="#slide-madeira1"></a>
+                    <a href="#slide-madeira2"></a>
+                    <a href="#slide-madeira3"></a>
+                    <a href="#slide-madeira4"></a>
+                    <a href="#slide-madeira5"></a>
+                </div>
+            </div>
+        </div>
+
+        <hr class="section-divider">
+
+        <div class="section">
+            <div class="esquerda" id="viagens">
+                <h2>Viagens</h2>
+            </div>
+
+            <div class="slider-viagem" id="carrossel3">
+                <div class="slider"> 
+                    <img id="slide-viagem1" src="viagens\tenerife.jpg">
+                    <img id="slide-viagem2" src="viagens\bordeaux.jpg">
+                    <img id="slide-viagem3" src="viagens\marrocos.jpg">
+                    <img id="slide-viagem4" src="viagens\marseille.jpg">
+                    <img id="slide-viagem5" src="viagens\paris.jpg">
+                </div>
+                <div class="slider-nav">
+                    <a href="#slide-viagem1"></a>
+                    <a href="#slide-viagem2"></a>
+                    <a href="#slide-viagem3"></a>
+                    <a href="#slide-viagem4"></a>
+                    <a href="#slide-viagem5"></a>
+                </div>
+            </div>
+        </div>
+
+        <hr class="section-divider">
+
+        <div class="section">
+            <div class="esquerda" id="volei">
+                <h2>Volei</h2>
+            </div>
+
+            <div class="slider-volei" id="carrossel4">
+                <div class="slider"> 
+                    <img id="slide-volei1" src="volei\volei1.jpg">
+                    <img id="slide-volei2" src="volei\volei2.jpg">
+                    <img id="slide-volei3" src="volei\volei3.jpg">
+                    <img id="slide-volei4" src="volei\volei4.jpg">
+                    <img id="slide-volei5" src="volei\volei5.jpg">
+                </div>
+                <div class="slider-nav">
+                    <a href="#slide-volei1"></a>
+                    <a href="#slide-volei2"></a>
+                    <a href="#slide-volei3"></a>
+                    <a href="#slide-volei4"></a>
+                    <a href="#slide-volei5"></a>
+                </div>
+            </div>
+        </div>
+
+        <hr class="section-divider">
+
+        <div class="section">
+            <div class="esquerda" id="universidade">
+                <h2>Universidade</h2>
+            </div>
+
+            <div class="slider-uni" id="carrossel5">
+                <div class="slider"> 
+                    <img id="slide-uni1" src="uni\cortejo3_2.jpeg">
+                    <img id="slide-uni2" src="uni\4ano.jpg">
+                    <img id="slide-uni3" src="uni\jantarcurso.jpg">
+                    <img id="slide-uni4" src="uni\cortejo2.jpg">
+                    <img id="slide-uni5" src="uni\cortejo3.jpg">
+                </div>
+                <div class="slider-nav">
+                    <a href="#slide-uni1"></a>
+                    <a href="#slide-uni2"></a>
+                    <a href="#slide-uni3"></a>
+                    <a href="#slide-uni4"></a>
+                    <a href="#slide-uni5"></a>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

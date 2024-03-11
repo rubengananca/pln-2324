@@ -1,0 +1,100 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-color: #f2f2f2;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+}
+
+/* CABEÇALHO */
+header {
+    background-color: #60bae0;
+    padding: 5px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo span {
+    font-size: 25px;
+    margin-right: 1060px;
+    margin-left: 25px;
+    font-weight: 700;
+    cursor: default;
+}
+
+.logo img {
+    margin-left: 80px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 55px; 
+    height: 55px; 
+    object-fit: cover;
+}
+
+.logo button{
+
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #60bae0;
+    border-width: 0;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+/* CORPO */ 
+
+.conteudo{
+    padding: 20px;
+    padding-top: 30px;
+
+}
+
+.sobre-mim {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: justify;
+    margin: 0 auto;
+    max-width: 800px;
+    margin-bottom: 50px;
+  }
+  
+.sobre-mim h1 {
+    margin-top: 0;
+    text-align: center;
+}
+
+.paragrafos{
+    background-color: #e6e5e5;
+    border-radius: 8px;
+    padding:25px;
+    background-image: url("chihiro.png");
+    background-size: cover;
+    background-position: center;
+}
+  
+.paragrafos p {
+    margin: 5px auto;
+    max-width: 840px;
+    text-align: justify;
+}
+
+.paragrafos a{
+    font-weight: 700;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.paragrafos img{
+    opacity: 0.1;
+}

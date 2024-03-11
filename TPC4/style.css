@@ -1,0 +1,187 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-color: #c5e4f4;
+    margin: 0;
+    font-family: "Quicksand", sans-serif;
+}
+
+/* CABEÇALHO */
+header {
+    background-color: #60bae0;
+    padding: 5px;
+    color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo span {
+    font-size: 25px;
+    margin-right: 1040px;
+    margin-left: 25px;
+    font-weight: 700;
+    cursor: default;
+}
+
+.logo img {
+    margin-left: 65px;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 55px; 
+    height: 55px; 
+    object-fit: cover;
+}
+
+.logo button{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    color: white;
+    background-color: #60bae0;
+    border-width: 0;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+hr{
+    background-color: #60bae0;
+    height: 1.5px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    /*border: 0.7px solid #60bae0;*/
+    /*width: 100%;*/
+    margin: 35px 0;
+}
+/* CORPO */
+
+h2{
+    cursor: default;
+}
+
+.conteudo {
+    padding: 20px;
+    padding-top: 50px;
+}
+
+.section {
+    flex: 1;
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.esquerda {
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    margin-left: auto;
+}
+
+.play-button{
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    font-size: 1em;
+    color: white;
+    background-color: #60bae0;
+    border: none;
+    border-radius: 6px;
+    cursor:pointer;
+}
+
+.play-button:hover{
+    background-color: #fff;
+    color:#34a7d8;
+    transition: 0.3s;
+}
+
+.botao-pause{
+    margin-top: 15px;
+}
+
+.pause-button{
+    font-size: 50px;
+    color: #34a7d8;
+    background-color: #c5e4f4;
+    border: none;
+    cursor:pointer;
+}
+
+.pause-button:hover{
+    color:white;
+    transition: 0.3s;
+}
+
+/* CARROSSEL DE IMAGENS */
+
+/* Disposição das imagens */
+.slider-musica, .slider-madeira, .slider-viagem, .slider-volei, .slider-uni {
+    position: relative;
+    /*padding-left: 150px;*/
+    max-width: 450px; /* largura fixa em pixels */
+    margin: 0 auto; /* centraliza-se na página horizontalmente */ 
+    margin-right: 200px; /* adiciona uma margem à direita */
+}
+
+/* disposição, aparência das imagens e algumas propriedades */
+.slider {
+    transition: transform 0.5s ease;
+    display: flex;
+    aspect-ratio: 16/9;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory; /*esconde as outras imagens*/
+    scroll-behavior: smooth;
+    box-shadow: 0 1.5rem 3rem -0.75rem hsla(0, 0%, 0%, 0.25);
+    border-radius: 0.5rem;
+
+    /*Manter a scrollbar presente para poder mexer mas invisível */
+    scrollbar-width: none;  /* Firefox */
+    -ms-overflow-style: none; /* Internet Explorer e Edge*/
+
+    &::-webkit-scrollbar {
+        display: none; /*Chrome, Safari, Opera */
+    }
+}
+
+.slider img {
+    flex: 1 0 100%; /* cada imagem vai ter o mesmo tamanho na caixa e completa a caixa*/
+    scroll-snap-align: start;
+    object-fit: cover; /*ajusta*/
+}
+
+/* Personalizar os botoes nas imagens*/
+.slider-nav {
+    display: flex;
+    column-gap: 1rem;
+    position: absolute;
+    bottom: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%); /*centralizar botões de navegação*/
+    z-index: 1;
+}
+
+.slider-nav a {
+    width: 0.5rem;
+    height: 0.5rem;
+    border-radius: 50%;
+    background-color: #fff;
+    opacity: 0.75;
+    transition: opacity ease 250ms;
+}
+
+.slider-nav a:hover {
+    width: 10px;
+    transition: transform 1s ease;
+    opacity: 1;
+    background-color: #000;
+}
