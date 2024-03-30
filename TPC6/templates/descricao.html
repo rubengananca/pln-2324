@@ -1,0 +1,31 @@
+{% extends "parent.html" %}
+
+
+{% block body %}
+
+    <div class="bg-warning-subtle text-warning-emphasis text-opacity-75  shadow p-2 mb-4 bg-body-tertiary rounded">
+        <h1 class="px-4"> Conceito: {{designacao}} </h1>
+    </div>
+
+    <div class="ms-5 mt-4 text-primary text-opacity-50">
+        <h4> PT: {{desig_pt}}  </h4>
+        <h4> Tradução Inglesa: {{desig_en}}  </h4>
+
+        {% if desig_fr %}
+            <h4> Tradução Francesa: {{ desig_fr }} </h4>
+        {% endif %}
+        {% if desig_es %}
+            <h4> Tradução Espanhola: {{ desig_es }} </h4>
+        {% endif %}
+        {% if desig_de %}
+            <h4> Tradução Alemã: {{ desig_de }} </h4>
+        {% endif %}
+
+    </div>
+
+    <a  class="mt-4 btn btn-outline-info" href="/conceitos" role = "button">Retroceder</a>
+    <a  class="mt-4 btn btn-outline-danger" href="/conceito/{{designacao}}/editar" role = "button">Editar Conceito</a>
+{% endblock %}
+
+
+

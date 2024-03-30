@@ -1,0 +1,14 @@
+{% extends "parent.html" %}
+
+
+{% block body %}
+
+    <div class="list-group">
+        {% for conceito in conceitos %}
+        <a href="/conceito/{{conceito}}" class="list-group-item list-group-item-action list-group-item-info">{{conceito}}</a> <!-- Bootstrap em utilização copiado do site -->
+        {% endfor %}
+    </div>
+{% endblock %}
+
+
+

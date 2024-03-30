@@ -1,0 +1,50 @@
+{% extends "parent.html" %}
+
+
+{% block body %}
+    <form method="POST" action="/conceito/{{designacao}}/editar">
+
+        <input class="bg-warning-subtle text-warning-emphasis border border-warning-subtle form-control mb-3" type="text" value="Conceito: {{designacao}}" aria-label="Disabled input example" disabled readonly>
+
+
+        <div class="input-group mb-3">
+            <span class="bg-warning-subtle text-warning-emphasis border border-warning-subtle input-group-text" id="inputGroup-sizing-default">Descrição (PT) </span>
+            <input type="text" name="desig_pt" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" value ="{{desig_pt}}" required>
+        </div>
+
+        <div class="input-group mb-5">
+            <span class="bg-warning-subtle text-warning-emphasis border border-warning-subtle input-group-text" id="inputGroup-sizing-default">Descrição (EN) </span>
+            <input type="text" name="desig_en" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default" value ="{{desig_en}}" required>
+        </div>
+
+        <!-- QUANDO JÁ HÁ TRADUÇÕES NOUTRAS LINGUAS-->
+        {% if desig_fr %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Tradução(FR): {{desig_fr}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+        {% if desig_es %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Tradução(ES): {{desig_es}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+        {% if desig_de %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Tradução(DE): {{desig_de}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+
+        <!-- CRIA NOVAS TRADUÇÕES -->
+        <div class="input-group mt-5 mb-3">
+            <label class="bg-info-subtle text-info-emphasis border border-info-subtle input-group-text" for="inputGroupSelect01">Línguas</label>
+            <select class="form-select" id="inputGroupSelect01" name="nova_lingua">
+              <option value = "vazio" selected>Opcoes...</option>
+              <option value="fr">Francês</option>
+              <option value="es">Espanhol</option>
+              <option value="de">Alemão</option>
+            </select>
+        </div>
+        
+        <div class="input-group mb-3">
+            <span class="bg-info-subtle text-info-emphasis border border-info-subtle input-group-text" id="inputGroup-sizing-default">Tradução </span>
+            <input type="text" name="nova_descricao" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <button type="submit" class="btn btn-success">Editar</button>
+        <!-- <button type="submit">Enviar</button> -->
+    </form>
+{% endblock %}
