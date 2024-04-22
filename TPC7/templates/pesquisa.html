@@ -1,0 +1,23 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+
+
+    <h5 class="mt-5 text-center"> Pesquise: <input id="myInput" class="border border-info border-2" type="text" placeholder="Procure..."> </h5> 
+
+    <div class="shadow-sm p-2 mt-5 mb-5 bg-info-subtle text-info-emphasis">
+        <h3> Conceitos </h3>
+    </div>
+  
+    <div class="list-group" id="myconceitos">
+  
+          {% for conceito in list_conceitos %}
+          
+            <li class="mb-3"> {{conceito}} </li>
+  
+          {% endfor %}
+      </div>
+  
+{% endblock %}

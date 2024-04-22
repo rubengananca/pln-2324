@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>Conceito</th>
+            <th>Descrição</th>
+            <th>Tradução em Inglês</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for conceito, detalhes in conceitos.items() %}
+        <tr>
+            <td>{{ conceito }}</td>
+            <td>{{ detalhes['desc'] }}</td>
+            <td>{{ detalhes['en'] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
