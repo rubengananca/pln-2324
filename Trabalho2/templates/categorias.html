@@ -1,0 +1,23 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+    <h1 class="text-center"> Categorias </h1>
+
+    <div class="row mt-3 ms-5">
+        {% for categoria in lista_ordenada %}
+            <div class="col-lg-4">
+                <a class="m-2 mt-4 ms-4 btn btn-block" href="categorias/{{categoria}}" role="button" style="
+                    background: #fce7b8;
+                    color: black;
+                    padding: 15px;
+                    border-radius: 5px;
+                    font-weight: 500;
+                    font-size: 17px;
+                    text-decoration: none; 
+                    width: 70%;
+                ">{{categoria}}</a>
+            </div>
+        {% endfor %}
+    </div>
+{% endblock %}

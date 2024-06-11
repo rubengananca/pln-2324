@@ -1,0 +1,55 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<!-- Acrescenta estética à tabela --> 
+
+<style>
+    table#myTable {
+        width: 100%;
+        border-collapse: collapse;
+    }
+
+    table#myTable thead tr {
+        background-color: #007BFF; /* Cor azul para o cabeçalho */
+        color: white; /* Cor do texto no cabeçalho */
+    }
+
+    table#myTable thead tr th {
+        padding: 10px;
+        border: 1px solid #ddd; /* Bordas das células do cabeçalho */
+    }
+
+    table#myTable tbody tr {
+        background-color: #e3f2fd; /* Cor azul clarinho para o corpo */
+    }
+
+    table#myTable tbody tr td {
+        padding: 10px;
+        border: 1px solid #ddd; /* Bordas das células do corpo */
+    }
+
+    table#myTable tbody tr:nth-child(even) {
+        background-color: #d0e4f7; /* Cor um pouco mais escura para linhas pares */
+    }
+</style>
+
+<table id="myTable" class="display">
+    <thead>
+        <tr>
+            <th>Conceito</th>
+            <th>Categoria</th>
+            <th>Descrição</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for conceito, detalhes in doencas.items() %}
+        <tr>
+            <td>{{ conceito }}</td>
+            <td>{{ detalhes['Categoria'] }}</td>
+            <td>{{ detalhes['Descricao'] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}

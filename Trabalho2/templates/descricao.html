@@ -1,0 +1,72 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+<div class="bg-warning-subtle text-warning-emphasis text-opacity-75 shadow p-2 mb-4 bg-body-tertiary rounded">
+    <h1 class="px-4"> Conceito: {{ designacao }} </h1>
+</div>
+
+<div class="ms-5 mt-4">
+    <h4> <span class="text-primary text-opacity-75"> Categoria:</span> <span class="text-secondary">{{ categoria }}</span> </h4>
+    <h4> <span class="text-primary text-opacity-75"> Descrição:</span> <span class="text-secondary">{{ descricao }}</span> </h4>
+
+    {% if descricao_2 %}
+        <h4> <span class="text-primary text-opacity-75"> Outra Descrição:</span> <span class="text-secondary">{{ descricao_2 }}</span> </h4>
+    {% endif %}
+    {% if descricao_sns %}
+        <h4> <span class="text-primary text-opacity-75"> Descrição SNS:</span> <span class="text-secondary">{{ descricao_sns }}</span> </h4>
+    {% endif %}
+    {% if descricao_utilizador %}
+        <h4> <span class="text-primary text-opacity-75"> Descrição Utilizador:</span> <span class="text-secondary">{{ descricao_utilizador }}</span> </h4>
+    {% endif %}
+
+    {% if traducoes %}
+        <h2 class="pt-5"> Traduções da Palavra: </h2>
+        {% if traducoes_ar %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Árabe:</span> <span class="text-secondary">{{ traducoes_ar }}</span> </h4>
+        {% endif %}
+        {% if traducoes_de %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Alemã:</span> <span class="text-secondary">{{ traducoes_de }}</span> </h4>
+        {% endif %} 
+        {% if traducoes_es %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Espanhola:</span> <span class="text-secondary">{{ traducoes_es }}</span> </h4>
+        {% endif %}
+        {% if traducoes_fr %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Francês:</span> <span class="text-secondary">{{ traducoes_fr }}</span> </h4>
+        {% endif %}              
+        {% if traducoes_ja %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Japonesa:</span> <span class="text-secondary">{{ traducoes_ja }}</span> </h4>
+        {% endif %}
+        {% if traducoes_ko %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Coreana:</span> <span class="text-secondary">{{ traducoes_ko }}</span> </h4>
+        {% endif %}   
+        {% if traducoes_ru %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Russa:</span> <span class="text-secondary">{{ traducoes_ru }}</span> </h4>
+        {% endif %}
+        {% if traducoes_zh %}
+            <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Chinesa:</span> <span class="text-secondary">{{ traducoes_zh }}</span> </h4>
+        {% endif %} 
+{% endif %}
+
+    {% if traducoes_rel %}
+        <h2 class="pt-5"> Palavra Relacionada: {{ traducoes_rel_pt }}</h2>
+        <h4 class="ms-4 mt-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Árabe:</span> <span class="text-secondary">{{ traducoes_rel_ar }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Alemã:</span> <span class="text-secondary">{{ traducoes_rel_de }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Espanhola:</span> <span class="text-secondary">{{ traducoes_rel_es }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Francesa:</span> <span class="text-secondary">{{ traducoes_rel_fr }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Japonesa:</span> <span class="text-secondary">{{ traducoes_rel_ja }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Coreana:</span> <span class="text-secondary">{{ traducoes_rel_ko }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Russa:</span> <span class="text-secondary">{{ traducoes_rel_ru }}</span> </h4>
+        <h4 class="ms-4"> <span class="text-primary text-opacity-75"> Tradução Relacionada Chinesa:</span> <span class="text-secondary">{{ traducoes_rel_zh }}</span> </h4>
+    {% endif %}
+</div>
+
+<div class="btn-group" role="group" aria-label="Botões de Ação">
+    <a class="m-2 mt-4 ms-4 btn btn-outline-info" href="/doencas" role="button">Retroceder</a>
+    <a class="m-2 mt-4 btn btn-outline-success" href="/doenca/{{ designacao }}/editar" role="button">Editar</a>
+    <form action="/doenca/{{ designacao }}/eliminar" method="post" onsubmit="return confirm('Tem certeza que deseja eliminar este conceito?');">
+        <button type="submit" class="m-2 mt-4 btn btn-outline-danger" role="button">Eliminar</button>
+    </form>
+</div>
+
+{% endblock %}

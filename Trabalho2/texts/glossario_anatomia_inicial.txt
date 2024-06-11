@@ -1,0 +1,1862 @@
+@@ Cabeça.
+@@ Fronte.
+Parte anterior da cabeça. A
+@@ Occipital.
+Parte posterior da cabeça (nuca). B
+@@ Têmpora.
+@@ Orelha.
+
+@@ Face.
+@@ Olho.
+@@ Bochecha.
+@@ Nariz.
+@@ Boca.
+@@ Mento.
+@@ Pescoço.
+Seu limite superior passa por uma
+linha ao longo da margem inferior da mandí-
+bula, processo mastóide, linha nucal superior,
+até a protuberância occipital externa; seu limi-
+te inferior estende-se da margem superior do
+manúbrio do esterno, ao longo da clavícula, ao
+acrômio e à espinha da escápula, até o processo
+espinhoso de C VII. A, B
+@@ Tronco.
+@@ Tórax.
+Parte do tronco, entre o pescoço e o abdo-
+me. Sua estrutura básica é a caixa torácica. Seu
+limite inferior é a abertura torácica inferior e o
+diafragma. A
+@@ Peito.
+@@ Abdome.
+Parte do tronco entre o tórax, a mar-
+gem superior do sacro, o ligamento inguinal e a
+sínfi se púbica. A, C
+@@ Pelve.
+Parte do tronco entre o abdome e o soalho
+da pelve. A pelve maior e a pelve menor são se-
+paradas pela linha terminal.
+@@ Dorso.
+Parte posterior do tronco. B
+@@ Membro superior.
+Constituído pelo cíngulo do
+membro superior e pela extremidade livre.
+@@  Cíngulo do membro superior.
+Sua estrutura óssea
+básica é formada pela escápula e pela clavícula.
+@@ Axila.
+Cavidade axilar. Espaço de união entre o
+membro superior e a parede lateral do tórax. C
+@@ Braço.
+@@ Cotovelo.
+@@ Antebraço.
+@@ Mão.
+@@ Carpo.
+@@ Metacarpo.
+@@ Palma.
+@@  Dorso da mão.
+@@  Dedos da mão.
+@@ Membro inferior.
+Constituído pelo cíngulo do
+membro inferior e pela extremidade livre.
+@@  Cíngulo do membro inferior.
+Sua estrutura óssea
+básica é formada pelo osso do quadril. C
+@@ Nádegas.
+@@ Quadril.
+Região de união da pelve com a extre-
+midade livre do membro inferior. C
+@@ Fêmur.
+@@ Joelho.
+@@ Região poplítea.
+Fossa superfi cial do joelho. C
+@@ Perna.
+@@ Sura.
+Panturrilha. B, C
+@@ Pé
+@@ Tarso.
+@@ Calcanhar.
+@@ Metatarso.
+@@ Planta.
+@@  Dorso do pé.
+@@  Dedos do pé.
+@@ Cavidades.
+@@  Cavidade do crânio.
+@@ Cavidade torácica.
+@@ Cavidade abdominopélvica.
+Cavidade conjunta do
+abdome e da pelve.
+@@ Cavidade abdominal.
+@@ Cavidade pélvica.
+@@ Vertical.
+@@ Horizontal.
+@@ Mediano.
+Situado no plano mediano. A
+@@ Coronal.
+Situado no plano da sutura coronal. A
+@@ Sagital.
+Situado no plano da sutura sagital, ou
+situado em direção dorsal-ventral. A
+@@ Direito.
+@@ Esquerdo.
+@@ Intermédio.
+Situado entre duas estruturas.*
+@@ Medial.
+Situado próximo do plano mediano.
+@@ Lateral.
+Situado afastado do plano mediano.
+@@ Anterior.
+Situado à frente de.
+@@ Posterior.
+Situado atrás de.
+@@ Ventral.
+Situado em direção ao ventre.
+@@ Dorsal.
+Situado em direção ao dorso.
+@@ Frontal.
+Pertencente à fronte (testa); situado
+paralelamente à fronte (testa). A
+@@ Occipital.
+Pertencente ao occipício (nuca); si-
+tuado em direção ao occipício (nuca).
+@@ Superior.
+Situado em direção à cabeça.
+@@ Inferior.
+Situado em direção à cauda (cóccix).
+@@ Cranial.
+Pertencente ao crânio; situado em dire-
+ção do crânio.
+@@ Caudal.
+Situado em direção à cauda.
+@@ Rostral.
+Situado em direção ao rostro do corpo
+caloso.
+@@ Apical.
+Pertencente ao ápice; em direção ao ápice.
+@@ Basal.
+Pertencente à base; em direção à base.
+@@ Basilar.
+Pertencente à base do crânio; em dire-
+ção à base do crânio.
+@@ Médio.
+Meio; situado entre (no meio de) duas
+estruturas.**
+@@ Transverso.
+@@ Transversal.
+Situado transversalmente.
+@@ Longitudinal.
+Situado longitudinalmente.
+@@ Axial.
+Situado na direção de um eixo. Pertencente
+ao áxis, a segunda vértebra cervical.
+@@ Externo.
+Situado em direção ao lado de fora;
+exterior.
+@@ Interno.
+Situado em direção ao lado de dentro;
+interior.
+@@ Luminal.
+Pertencente ao lume (vaso); situado
+em direção ao lume (vaso).
+@@ Superﬁ cial.
+Situado na superfície.
+@@ Profundo.
+Situado na profundidade.
+@@ Proximal.
+Situado próximo do tronco. B
+@@ Distal.
+Situado afastado do tronco. B
+@@ Central.
+Situado no ponto médio.
+@@ Periférico.
+Situado afastado do centro.
+@@ Radial.
+Pertencente ao rádio; situado em dire-
+ção ao rádio. B
+@@ Ulnar.
+Pertencente à ulna; situado em direção à
+ulna. B
+@@ Fibular.
+Pertencente à fíbula; situado em dire-
+ção à fíbula. B
+@@ Tibial.
+Pertencente à tíbia; situado em direção à
+tíbia. B
+@@ Palmar.
+Pertencente à palma; situado em dire-
+ção à palma. B
+@@ Plantar.
+Pertencente à planta; situado em dire-
+ção à planta. B
+@@ Flexor.
+@@ Extensor.
+@@  Linha mediana anterior.
+Linha vertical mediana
+através do tronco. C
+@@ Linha esternal.
+Situada na margem lateral do
+esterno. C
+@@ Linha paraesternal.
+Linha vertical entre a linha
+esternal e a linha medioclavicular. C
+@@ Linha medioclavicular.
+Linha vertical através do
+ponto médio da clavícula. C
+@@ Linha mamilar.
+O mesmo que linha medioclavi-
+cular. C
+@@  Linha axilar anterior.
+Situada na prega axilar
+anterior. C
+@@  Linha axilar média.
+Situada no centro da axila,
+entre a linha axilar anterior e a linha axilar pos-
+terior. C
+@@  Linha axilar posterior.
+Situada na prega axilar
+posterior. B, C
+@@ Linha escapular.
+Linha vertical através do ân-
+gulo inferior da escápula. B
+@@ Linha paravertebral.
+Linha vertical através das
+extremidades dos processos transversos, visível
+apenas em radiografi as. B
+@@  Linha mediana posterior.
+Linha vertical media-
+na através do tronco.
+@@ Planos frontais.
+Situados paralelamente à su-
+perfície da fronte (testa), perpendiculares ao
+plano mediano e a um plano horizontal. A
+@@ Planos horizontais.
+Planos transversais situa-
+dos perpendicularmente ao plano mediano e a
+um plano frontal. A
+@@ Planos sagitais.
+Planos paralelos à sutura sa-
+gital, situados perpendicularmente aos planos
+frontal e horizontal. A
+@@ Plano mediano.
+Plano sagital mediano ou plano
+de simetria. Este plano divide o corpo humano
+em duas metades iguais. A
+@@ Planos paramedianos.
+Situam-se paralelamente
+ao plano mediano. A
+@@ Planos transversos.
+Planos horizontais. Planos
+horizontais especiais são descritos a seguir. A
+@@ Plano transpilórico.
+Plano transverso através do
+ponto médio da distância entre a margem supe-
+rior da sínfi se púbica e a margem superior do
+manúbrio do esterno. A
+@@ Plano subcostal.
+Plano transverso através da
+margem inferior da décima cartilagem costal. A
+@@ Plano supracristal.
+Plano transverso através do
+ponto mais superior das cristas ilíacas. Atra-
+vessa a coluna vertebral na altura do processo
+espinhoso da quarta vértebra lombar. A
+@@ Plano intertubercular.
+Plano transverso através
+dos tubérculos ilíacos. A
+@@ Plano interespinal.
+Plano transverso através das
+espinhas ilíacas ântero-superiores. A
+Regiões topográfi cas da ca-
+beça.
+@@ Região frontal.
+Região da fronte (testa). B
+@@ Região parietal.
+Região sobre o osso parietal. B,
+@@ Região occipital.
+Região sobre o osso occipital.
+@@ Região temporal.
+Região sobre o osso temporal.
+@@ Região auricular.
+Região da orelha. A
+@@ Região mastóidea.
+Região sobre o processo
+mastóideo. B, C
+@@ Região facial.
+Região da face.
+@@ Sulco suprapalpebral.
+Sulco acima da pálpebra
+superior. B
+@@ Região orbital.
+Região que envolve a órbita. B
+@@ Sulco infrapalpebral.
+Sulco abaixo da pálpebra
+inferior. B
+@@ Região infra-orbital.
+Região abaixo da órbita. B
+@@  Região da bochecha.
+Região da bochecha. B
+@@ Região parotideomassetérica.
+Região sobre a
+glândula parótida e o m. masseter. B
+@@ [[Fossa retromandibular]].
+Ao longo do ramo da
+mandíbula, estende-se de medial para posterior
+até a articulação temporomandibular. Contém a
+glândula parótida e as veias.
+@@ Região zigomática.
+Região sobre o zigomático. B
+@@ Região nasal.
+Região que envolve o nariz. B
+@@ Sulco nasolabial.
+Sulco da asa do nariz até o ân-
+gulo da boca. B
+@@ Região oral.
+Região ao redor da rima da boca. B
+@@ Sulco mentolabial.
+Sulco entre o lábio inferior e o
+queixo. B
+@@ Região mentual.
+Região do queixo. B
+Regiões topográfi cas do pes-
+coço. B
+@@  Região cervical anterior (trígono cervical ante-
+@@rior).
+Trígono entre a linha mediana do pesco-
+ço, a margem anterior do m. esternocleidomas-
+tóideo e a margem da base da mandíbula.
+@@ Trígono submandibular.
+Trígono entre os ventres
+do m. digástrico e a margem da base da mandí-
+bula. B
+@@ Trígono carótico.
+Trígono entre o m. esternoclei-
+domastóideo, o ventre posterior do m. digástrico
+e o ventre superior do m. omo-hióideo. B
+@@ Trígono muscular.
+Trígono entre a linha mediana
+do pescoço, a margem anterior do m. esterno-
+cleidomastóideo e o ventre superior do m. omo-
+hióideo. B
+@@ Trígono submentual.
+Trígono abaixo do queixo,
+entre o hióide e o ventre anterior de ambos os
+mm. digástricos. B
+@@ Região esternocleidomastóidea.
+Região sobre o
+m. esternocleidomastóideo. B
+@@  Fossa supraclavicular menor.
+Depressão entre as
+origens esternal e clavicular do m. esternoclei-
+domastóideo. B
+@@ Região cervical lateral (trígono cervical late-
+@@ral).
+Trígono entre a clavícula, a margem ante-
+rior do m. trapézio e a margem posterior do m.
+esternocleidomastóideo. B
+@@ Trígono omoclavicular.
+Trígono entre a clavícula,
+a margem posterior do m. esternocleidomastói-
+deo e o ventre inferior do m. omo-hióideo. B
+@@ Fossa supraclavicular maior.
+Depressão cutânea
+sobre o trígono omoclavicular. B
+@@  Região cervical posterior.
+A região da nuca (re-
+gião posterior do pescoço). C
+@@ Região pré-esternal.
+Região anterior ao esterno.
+@@ Fossa infraclavicular.
+[[Fossa de Morenheim]].
+De pressão cutânea sobre o trígono clavipeitoral.
+@@ Trígono clavipeitoral.
+Trígono entre os múscu-
+los deltóide, peitoral maior e a clavícula. C
+@@ Região peitoral.
+Região sobre o músculo peito-
+ral maior. C
+@@  Região peitoral lateral.
+Parte lateral das regiões
+mamária e inframamária. C
+@@ Região mamária.
+Região que compreende a glân-
+dula mamária. C
+@@ Região inframamária.
+Região abaixo da região
+mamária. C
+@@ Região axilar.
+Região entre as duas pregas axi-
+lares. A
+@@ Fossa axilar.
+Fossa central da axila. A
+@@ Hipocôndrio.
+Região lateral à linha medioclavi-
+cular, entre a região peitoral e o plano subcostal.
+@@  Epigástrio (fossa epigástrica).
+Região abaixo
+das regiões peitorais, entre as duas linhas me-
+dioclaviculares e o plano subcostal. C
+@@ Região lateral.
+Região lateral à linha mediocla-
+vicular, entre o plano subcostal e o plano supra-
+cristal. C
+@@ Região umbilical (umbigo).
+Região entre as
+duas linhas medioclavi culares, o plano subcos-
+tal e o plano supracristal. C
+@@ Região inguinal.
+Região lateral à linha medio-
+clavicular, entre o plano supracristal e o liga-
+mento inguinal. C
+@@ Região púbica (hipogástrio).
+Região entre as
+duas linhas mediocla viculares, o plano supra-
+cristal e o liga mento inguinal. C
+@@ Região vertebral.
+Região em faixa sobre a colu-
+na vertebral. B
+@@ Região sacral.
+Região sobre o sacro. B
+@@ Fovéola coccígea.
+Fosseta sobre o cóccix.
+@@ Região escapular.
+Região sobre a escápula. B
+@@ Região infra-escapular.
+Região entre a região
+escapular e a região lombar. B
+@@ Região lombar.
+Região entre a crista ilíaca e a
+região infra-escapular. B
+@@ Região anal.
+Região ao redor do ânus. É limi-
+tada anteriormente por uma linha imaginária
+através dos dois túberes isquiáticos. D
+@@ Região urogenital.
+Região perineal à frente da
+linha que une os dois túberes isquiáticos. D
+@@ 
+@@ Região deltóidea.
+Região sobre o músculo del-
+tóide. A, B
+@@ Região braquial.
+Região do braço.
+@@  Região braquial anterior.
+Face anterior do braço.
+@@  Sulco bicipital lateral.
+@@  Sulco bicipital medial.
+@@  Região braquial posterior.
+Face posterior do bra-
+ço. A
+@@ Região cubital.
+Região do cotovelo.
+@@  Região cubital anterior.
+Face anterior do cotovelo.
+@@ Fossa cubital.
+Fossa do cotovelo. B
+@@Região cubital posterior
+Face posterior do coto-
+velo. A
+@@ Região antebraquial.
+Região do antebraço.
+@@Região antebraquial anterior
+Face anterior do an-
+tebraço. B
+@@Região antebraquial posterior
+Face posterior do
+ante braço. A
+@@Margem radial.
+Margem lateral.
+@@Margem ulnar.
+Margem medial.
+@@  Região da mão.
+@@ Região carpal.
+Região do punho.
+@@Região carpal anterior.
+Face anterior ou fl exora do
+punho. A
+@@  Região carpal posterior.
+Face posterior ou extenso-
+ra do punho. B
+@@Região dorsal da mão.
+Região do dorso da mão. B
+@@Palma.
+Face palmar da mão. A
+@@Eminência tenar.
+Saliência palmar do polegar.
+@@Eminência hipotenar.
+Saliência palmar do dedo
+mínimo.
+@@Região metacarpal.
+Região da mão entre o pu-
+nho e os dedos.
+@@Dedos da mão.*
+@@ Polegar.
+O primeiro dedo da mão (I).
+@@ Indicador.
+O segundo dedo da mão (II).
+@@ Dedo médio.
+O terceiro dedo da mão (III).
+@@ Dedo anular.
+O quarto dedo da mão (IV).
+@@ Dedo mínimo.
+O quinto dedo da mão (V).
+@@  Face palmar dos dedos.
+Face fl exora dos dedos da
+mão.
+@@  Face dorsal dos dedos.
+Face extensora dos dedos
+da mão.
+Regiões topográfi -
+cas do membro inferior.
+@@ Região glútea.
+Região sobre a musculatura glú-
+tea. A
+@@Fenda interglútea.
+Sulco entre as duas nádegas.
+@@ Sulco infraglúteo.
+Sulco que passa sobre o mús-
+culo glúteo máximo e separa as nádegas da
+coxa, quando a arti culação do quadril é esten-
+dida. A
+@@  Região do quadril.
+@@  Região da coxa.
+@@Região femoral anterior.
+Face anterior da coxa. B
+@@ Trígono femoral.
+Trígono entre o ligamento in-
+guinal, o m. sartório e o m. grácil. B
+@@Região femoral posterior.
+Face posterior da coxa.
+@@  Região do joelho.
+@@Região genicular anterior
+Face ante
+rior do joelho.
+@@Região genicular posterior.
+Face pos
+terior do joe-
+lho. A
+@@ Fossa poplítea.
+Cavidade posterior do joelho. A
+@@ Região crural.
+Região da perna.
+@@Região crural anterior.
+Região anterior da perna.
+@@Região crural posterior.
+Região posterior da per-
+na. A
+@@ Região sural.
+Região da panturri lha. A
+@@Região talocrural anterior.
+Região anterior do tor-
+nozelo. B
+@@  Região talocrural posterior.
+Região posterior do
+tornozelo. A
+@@  Região retromaleolar lateral.
+Região posterior ao
+maléolo lateral. A
+@@  Região retromaleolar medial.
+Região posterior ao
+maléolo medial.
+@@  Regiões do pé.
+@@ Região calcânea.
+Calcanhar.
+@@  Dorso do pé.
+Região do dorso do pé.
+@@ Planta
+Região da planta do pé.
+@@  Margem lateral do pé.
+Margem fi bular.
+@@  Margem medial do pé. 
+Margem tibial.
+@@  Arco longitudinal do pé.
+Arco longitudinal na
+margem lateral do pé. Consiste em duas partes.
+@@ Parte lateral.
+Estende-se da tuberosidade do cal-
+câneo, sobre o cubóide, até a cabeça dos IV-V
+ossos metatarsais. C
+@@ Parte medial.
+Estende-se da tuberosidade do cal-
+câneo, sobre o tálus, o navicular e os três cunei-
+formes, até a cabeça dos I-III ossos metatarsais.
+@@  Arco transverso proximal do pé.
+Arco transversal
+na região média do pé, formado pelo navicular,
+cuneiformes e cubóide. Arco mais elevado abai-
+xo dos cuneiformes I, II e III. A
+@@  Arco transverso distal do pé.
+Arco transversal na
+região anterior do pé, formado pelos I-V ossos
+metatarsais. B
+@@ Região tarsal.
+Anatômica: região da raiz do pé
+(tornozelo). Clínica: região posterior do pé, que
+corresponde ao tálus e calcâneo, região média
+do pé, com os demais ossos tarsais, e suas res-
+pectivas partes moles. C
+@@ Região metatarsal.
+Anatômica: região média do
+pé. Clínica: região anterior do pé, que corres-
+ponde aos ossos metatarsais, às falanges e suas
+respectivas partes moles. C
+@@  Dedos do pé.*
+@@ Hálux.
+O primeiro dedo do pé (I). Dedo grande
+do pé.
+@@  Segundo (II), terceiro (III) e quarto (IV) dedos do pé.
+@@ Dedo mínimo.
+O quinto dedo do pé (V).
+@@  Face plantar dos dedos.
+Face inferior dos dedos do
+pé.
+@@  Face dorsal dos dedos.
+Face superior dos dedos do
+pé.
+Ossos.
+@@ Parte óssea.
+Parte óssea do esqueleto.
+@@ Substância cortical.
+Camada superfi cial formada
+pelas lamelas principais mais externas do osso.
+@@ Substância compacta.
+Substância óssea densa
+formada por osteônios.
+@@ Substância esponjosa.
+Substância óssea frouxa
+em cujos espaços intersticiais se situa a medula
+óssea.
+@@ Parte cartilagínea.
+Parte cartilaginosa do esque-
+leto.
+@@ Parte membranácea.
+Parte fi brosa do esqueleto.
+@@ Periósteo.
+Revestimento externo do osso. Con-
+siste em duas lâminas que envolvem o tecido
+ósseo, a mais interna serve para a fi xação de
+tendões e ligamentos, e a mais externa, para o
+suprimento ósseo.
+@@ Pericôndrio.
+Revestimento externo da cartila-
+gem. Ele estende-se sobre a cartilagem, sem
+limites precisos.
+@@ Esqueleto axial.
+Esqueleto do tronco.
+@@ Esqueleto apendicular.
+Esqueleto dos mem-
+bros.
+@@ Osso longo.
+Osso longo como, por exemplo, a
+fíbula.
+@@ Osso curto.
+Osso curto como, por exemplo, os
+ossos carpais.
+@@ Osso plano.
+Osso plano como, por exemplo, o
+parietal.
+@@ Osso irregular.
+Osso complexo como, por exem-
+plo, o esfenóide.
+@@ Osso pneumático.
+Osso com células aéreas
+como, por exemplo, o etmóide.
+@@ Osso sesamóide.
+Ossos inseridos em tendões
+ou ligamentos, para distribuir a pressão.
+@@ Diáﬁ se.
+Parte média do osso.
+@@ Epíﬁ se.
+Extremidade óssea temporariamente
+envolvida no cresci mento.
+@@ Cartilagem epiﬁ sial.
+Cartilagem da epífi se.
+@@ Lâmina epiﬁ sial.
+Zona cartilaginosa entre a diá-
+fi se e a epífi se. Permite o crescimento longitudi-
+nal do osso.
+@@ Linha epiﬁ sial.
+Linha, visível em radiografi as e
+secções de osso, que assinala o local onde havia
+a cartilagem epifi sial.
+@@ Metáﬁ se.
+Zona de crescimento da diáfi se opos-
+ta à epífi se.
+@@ Apóﬁ se.
+Embriologicamente, parte de uma epí-
+fi se originada de um centro de ossifi cação pró-
+prio como, por exemplo, o trocanter maior.
+@@ Túber.
+Saliência óssea arredondada como, por
+exemplo, o túber isquiático.
+@@ Tubérculo.
+Pequena saliência óssea como, por
+exemplo, o tubérculo menor.
+@@ Tuberosidade.
+Rugosidade na superfície exter-
+na de um osso como, por exemplo, a tuberosida-
+de massetérica.
+4.
+@@ Eminência.
+Saliência óssea linear como, por
+exemplo, a eminência cruciforme do occipital.
+@@ Processo.
+Projeção óssea como, por exemplo, o
+processo transverso.
+@@ Côndilo.
+Saliência articular como, por exemplo,
+o côndilo do úmero.
+@@ Epicôndilo.
+Origem óssea do côndilo como, por
+exemplo, o epicôndilo medial do úmero.
+@@ Crista.
+Faixa ou margem óssea como, por exem-
+plo, a crista ilíaca.
+@@ Linha.
+Linha ou fi ta óssea como, por exemplo, a
+linha áspera.
+@@ Incisura.
+Entalhe escavado como, por exemplo,
+a incisura do acetábulo.
+@@ Fossa.
+Depressão como, por exemplo, a fossa
+cubital.
+@@ Sulco.
+Canal raso como, por exemplo, o sulco
+carótico.
+@@ Face articular.
+@@ Cavidade medular.
+@@ Endósteo.
+Revestimento da cavidade medular,
+semelhante ao periósteo.
+@@  Medula óssea amarela.
+Medula óssea adiposa.
+@@  Medula óssea vermelha.
+Medula óssea hemato-
+poética.
+@@ Forame nutrício.
+Abertura do canal nutrício na
+superfície óssea.
+@@ Canal nutrício.
+Canal para os vasos que nutrem
+o osso.
+@@  Centro de ossiﬁ cação.
+Local do início da ossifi -
+cação nos ossos de origem cartilagínea (ossifi ca-
+ção endocondral).
+@@ Primário.
+O início da ossifi cação em um elemen-
+to cartilagíneo como, por exemplo, na diáfi se
+dos ossos longos. Inicialmente, a epífi se perma-
+nece cartilagínea.
+@@ Secundário.
+Origina-se de um centro primário
+como, por exemplo, as epífi ses dos ossos lon-
+gos.
+Ligações (articulações) en-
+tre elementos ósseos.
+@@ Articulações ósseas.
+@@ Sinartrose.
+Ligação de ossos por meio de tecido
+conectivo fi broso denso ou cartilagem.
+@@ Articulação ﬁ brosa.
+Ligação entre dois ossos, em
+geral por meio de tecido conectivo fi broso denso
+e, mais raramente, por meio de fi bras elásticas.
+@@ Sindesmose.
+Ligação entre dois ossos geralmen-
+te por meio de ligamentos formados por feixes
+paralelos de fi bras colágenas ou por tecido co-
+nectivo elástico.
+@@ Gonfose.
+Inserção dos dentes nos alvéolos den-
+tais da maxila e mandíbula.
+@@ Membrana interóssea.
+Ligação laminar entre
+dois ossos por meio de tecido conectivo fi broso
+denso.
+@@ Sutura.
+Forma especial de ligação fi brosa.
+@@ Sutura plana.
+Ligação entre ossos resultando em
+uma superfície lisa como, por exemplo, a sutura
+zigomaticomaxilar.
+@@ Sutura escamosa.
+Ligação entre ossos resultan-
+do em uma superfície semelhante a uma esca-
+ma como, por exemplo, no temporal.
+@@ Sutura limbosa.
+Forma especial de sutura esca-
+mosa com sobreposição de lâminas.
+@@ Sutura serrátil.
+Ligação entre ossos resultan-
+do em uma superfície semelhante a uma serra
+como, por exemplo, a sutura sagital.
+@@ Sutura denticulada.
+Ligação entre ossos resul-
+tando em uma superfície semelhante a um ser-
+rote como, por exemplo, a sutura lambdóide.
+@@ Esquindilese.
+Ligação entre um sulco e uma cris-
+ta como, por exemplo, entre o vômer e o esfenói-
+de.
+@@ Articulação cartilagínea.
+Ligação entre ossos por
+meio de cartilagem.
+@@ Sincondrose.
+Ligação entre ossos por meio de
+cartilagem hialina como, por exemplo, a articu-
+lação epifi sial.
+@@ Sínfise.
+Ligação entre extremidades ósseas,
+revestidas por cartilagem hialina, por meio de
+cartilagem fi brosa.
+@@ Cartilagem epiﬁ sial.
+Cartilagem hialina que re-
+veste a parte terminal de um osso longo.
+@@ Sinostose.
+Fusão óssea entre ossos adjacentes
+como, por exemplo, o osso do quadril.
+@@ Articulação sinovial.
+Articulação entre ossos com
+uma cavidade articular revestida internamente.
+@@ Face articular.
+@@ Cavidade articular.
+@@ Fossa articular.
+@@ Cabeça articular.
+@@ Lábio articular.
+Faixa de cartilagem fi brosa  na
+margem de uma articulação esferóide.
+@@ Cápsula articular.
+@@ Membrana ﬁ brosa.
+Camada de tecido conectivo cap-
+sular, freqüentemente reforçada por ligamentos.
+@@ Membrana sinovial.
+Camada interna da cápsula
+articular. Conexão epitelióide com dois tipos de
+células, sem membrana basal, sobre um tecido
+conectivo frouxo contendo vasos, nervos e célu-
+las adiposas.
+@@ Prega sinovial.
+Dobra de membrana sinovial que
+se estende para o interior do espaço articular.
+@@ Vilosidades sinoviais.
+@@ Sinóvia.
+Líquido articular secretado pela mem-
+brana sinovial.
+@@ Disco articular.
+Estrutura que divi de a cavidade
+articular em duas câmaras separadas.
+@@ Menisco articular.
+Disco articular em forma de anel
+como, por exemplo, na articulação do joelho.
+@@ Ligamentos.
+@@ Ligamentos intracapsulares.
+Ligamentos localizados
+no interior do espaço articular como, por exemplo,
+os ligamentos cruza dos da articulação do joelho.
+@@ Ligamentos capsulares.
+Ligamentos de reforço
+situados na parte externa da cápsula articular
+como, por exemplo, os ligamentos colaterais das
+articulações interfalângicas.
+@@ Ligamentos extracapsulares.
+Ligamentos que se
+situam por fora da parede da cápsula como, por
+exemplo, o ligamento colateral fi bular da articu-
+lação do joelho.
+@@ Recesso articular.
+Evaginações do espaço articular
+como, por exemplo, o recesso subpoplíteo.*
+@@ Articulação simples.
+Articulação elementar somen-
+te entre dois ossos como, por exemplo, a articula-
+ção do quadril.
+@@ Articulação composta.
+Articulação  envolvendo
+mais de dois os sos como, por exemplo, a articu-
+lação radiocarpal.
+@@ Articulação plana.
+Articulação com faces articulares
+quase lisas como, por exemplo, as articulações dos
+processos articulares (coluna vertebral).
+@@ Articulação cilíndrica.
+Termo genérico que, segun-
+do o eixo de rotação, abrange as articulações des-
+critas a seguir.
+@@ Articulação trocóidea.
+Articulação em pivô como,
+por exemplo, a articulação radiulnar proximal e a
+articulação radiulnar distal.
+@@ Gínglimo.
+Articulação em dobradiça como, por
+exemplo, a articulação umeroulnar.
+@@ Articulação bicondilar.
+Articulação com um eixo
+principal transversal e um eixo secundário lon-
+gitudinal acompanhando uma parte do esqueleto
+como, por exemplo, a articulação do joelho.
+@@ Articulação selar.
+Arti
+culação com dois eixos como,
+por exemplo, a articulação metacarpofalângica
+do polegar.
+@@ Articulação elipsóidea.
+Articulação com dois eixos
+como, por exemplo, a arti culação da mão.
+@@ Articulação esferóidea.
+Articulação com vários eixos
+como, por exemplo, a articula ção do ombro.
+@@ Articulação cotílica.
+Articulação esferóidea especial
+como, por exemplo, a articulação do quadril.
+@@ Anﬁ artrose.
+Articulação pouco móvel devido a
+uma cápsula articular e ligamentos mais tensos
+como, por exemplo, a articulação sacroilíaca.
+@@ Abdução.
+Movimento em direção lateral, afas-
+tando-se do corpo.
+@@ Adução.
+Movimento em direção medial, aproxi-
+mando-se do corpo.
+@@ Rotação lateral.
+Movimento de rotação em dire-
+ção externa ao redor de um eixo longitudinal.
+@@ Rotação medial.
+Movimento de rotação em dire-
+ção interna ao redor de um eixo longitudinal.
+@@ Circundução.
+Movimento circular como, por
+exemplo, do braço na articulação do ombro.
+@@ Flexão.
+Flexão (curvatura) do tronco ou dos
+membros.
+@@ Extensão.
+Extensão (estiramento) do tronco ou
+dos membros.
+@@ Pronação.
+Movimento de rotação do antebraço de
+tal maneira que o dorso da mão se direciona supe-
+riormente.** Elevação da margem lateral do pé.
+@@ Supinação.
+Movimento de rotação do antebraço de
+tal maneira que a palma se direciona superiormen-
+te.*** Elevação da margem medial do pé.
+@@ Oposição.
+Movimento que direciona o polegar
+contra os demais dedos. Restrito também ao
+dedo mínimo.
+@@ Reposição.
+Movimento de retorno à posição ou
+situação de partida.
+Os músculos.
+@@ Cabeça.
+@@ Ventre.
+@@ Inserção.
+Fixação de um músculo.
+@@ [[Origem]].
+Início de um músculo.
+@@ Ponto ﬁ xo.
+Elemento esquelético imóvel.
+@@ Ponto móvel.
+Elemento esquelético móvel.
+@@ Músculo fusiforme.
+Músculo em forma de fuso.
+@@ Músculo plano.
+Músculo em forma de lâmina.
+@@ Músculo reto.
+Músculo longitudinal.
+@@ Músculo triangular.
+Músculo em forma de triân-
+gulo.
+@@ Músculo quadrado.
+Músculo em forma retangu-
+lar.
+@@  Músculo biventre. 
+@@Músculo com dois ventres.
+@@ Músculo bíceps.
+Músculo com duas cabeças.
+@@ Músculo tríceps.
+Músculo com três cabeças.
+@@ Músculo quadríceps.
+Músculo com quatro cabe-
+ças.
+@@ Músculo semipeniforme.
+Músculo em forma de
+meia pena (fi bras musculares fi xadas em um
+dos lados do tendão).
+@@ Músculo peniforme.
+Mús
+culo em forma de pena
+(fi bras musculares fi xadas nos dois lados do
+tendão).
+@@ Músculo multipeniforme.
+Músculo em forma
+de leque (fi bras musculares fi xadas em vários
+lados do tendão).
+@@ Músculo orbicular.
+Músculo em forma circular.
+@@ Músculo cutâneo.
+Músculo dérmico (fi xado na
+pele).
+@@ Músculo abdutor.
+Músculo que causa abdução.
+@@ Músculo adutor.
+Músculo que causa adução.
+@@ Músculo rotador.
+Músculo que causa rotação.
+@@ Músculo ﬂ exor.
+Músculo que causa fl exão.
+@@ Músculo extensor.
+Músculo que causa exten-
+são.
+@@ Músculo pronador.
+Músculo que causa prona-
+ção.
+@@ Músculo supinador.
+Músculo que causa supina-
+ção.
+@@ Músculo oponente.
+Músculo que causa oposi-
+ção.
+@@ Músculo esﬁ ncter.
+Músculo que causa constri-
+ção.
+@@ Músculo dilatador.
+Músculo que causa dilata-
+ção.
+@@ Compartimento.
+Espaço envolvido por fáscia.
+Geralmente inclui grupos musculares e está li-
+mitado por estruturas osteofi brosas.
+@@ Fáscia.
+Termo genérico para toda condensação
+externa de tecido conectivo, que também recobre
+e pode dar forma.
+@@  Fáscia da cabeça e do pescoço.
+@@  Fáscia do tronco.
+Integra os cinco tipos de fáscia
+descritos a seguir.
+@@ Fáscia parietal.
+Termo genérico para o tecido co-
+nectivo que, situado sob a lâmina parietal de
+uma serosa, reveste a parede de uma cavidade
+corporal. Pode se desenvolver como uma estru-
+tura própria como, por exemplo, a fáscia endo-
+torácica.
+@@ Fáscia extra-serosal.
+Termo genérico para toda
+estrutura de tecido conectivo que se situa inter-
+namente à fáscia parietal e externamente à fás-
+cia visceral. Aparece geralmente na pelve como
+ligamentos como, por exemplo, o ligamento
+transverso do colo do útero.
+@@ Fáscia visceral.
+Termo genérico para o tecido co-
+nectivo que se situa diretamente sob a lâmina
+visceral de uma serosa. Pode também constituir
+uma parte distinta da tela subserosa como, por
+exemplo, se contiver tecido adiposo.
+@@  Fáscia dos membros.
+@@  Fáscia dos músculos.
+@@  Fáscia de revestimento.
+Pode também revestir
+um grupo muscular. O termo também é usado
+para o epimísio.
+@@  Fáscia própria do músculo.
+@@ Epimísio.
+Tecido conectivo que envolve a super-
+fície de um músculo.
+@@ Perimísio.
+Tecido conectivo que envolve feixes
+de fi bras musculares.
+@@ Endomísio.
+Tecido conectivo que envolve uma
+fi bra muscular isolada, a qual está acondiciona-
+da pelo sarcolema.
+@@ Tendão.
+@@ Tendão intermédio.
+@@ Interseção tendínea.
+Tendão intermédio do m.
+reto do abdome.
+@@ Aponeurose.
+Tendão plano.
+@@ Arco tendíneo.
+Serve como origem de fi bras
+musculares.
+@@ Tróclea muscular.
+Es
+trutura que desvia um ten-
+dão, alterando sua direção de tração como, por
+exemplo, o sustentáculo do tálus para o ten dão
+do músculo fl exor longo do hálux.
+@@ Bolsa sinovial.
+Saco com líquido sinovial que
+permite o movimento de deslizamento de um
+músculo sobre (ou ao redor de) um osso.*
+@@ Bolsa subcutânea.
+Bolsa sinovial situada dire-
+tamente sob a pele.
+@@ Bolsa submuscular.
+Bolsa sinovial situada sob
+um músculo.
+@@ Bolsa subfascial.
+Bolsa sinovial situada sob
+uma fáscia.
+@@ Bolsa subtendínea.
+Bolsa sinovial situada sob
+um tendão.
+@@  Bainha do tendão
+Estrutura que, aprofundan-
+do um tendão, resiste à fricção, permitindo seu
+deslizamento.
+@@ Estrato ﬁ broso.
+Parte fi brosa da bainha do ten-
+dão.
+@@ Estrato sinovial.
+Camada interna isolada, lubrifi -
+cante, da bainha do tendão.
+@@ Mesotendão.
+Ligação semelhan
+te ao mesentério
+entre o tendão e sua bai nha. Transporta vasos
+sanguíneos.
+@@ Vaso sangüíneo.
+@@ Anastomose arteriolovenular.
+Ligação transver-
+sal entre uma arteríola e uma vênula.
+@@ Artéria.
+@@ Artéria nutrícia.
+Arté
+ria para o suprimento teci-
+dual.
+@@ Arteríola.
+Pequena artéria diretamente antes do
+capilar.
+@@ Círculo arterial.
+Ligação circular de artérias.
+@@ Círculo vascular.
+Ligação circular de vasos.
+@@ Cisterna.
+Dilatação de um vaso lin fático.
+@@ Sangue.
+@@ Plexo vascular.
+Rede de vasos.
+@@ Plexo venoso.
+Rede de veias.
+@@ Plexo arterial.
+Rede de artérias.
+@@ Rede admirável
+Duas redes capi lares situadas
+uma após a outra.
+@@  Plexo vascular articular.
+Rede de vasos san-
+guíneos ao redor de uma articu lação como, por
+exemplo, a rede articular do joelho.
+@@ Rede venosa.
+Rede de veias.
+@@ Seio venoso.
+Segmento veno
+so sem parede típi-
+ca como, por exemplo, o seio sagital.
+@@ Túnica externa.
+Camada externa da parede de
+um vaso.
+@@ Túnica íntima.
+Camada interna da parede de um
+vaso.
+@@ Túnica média.
+Ca
+mada média da parede de um
+vaso.
+@@ Valva.
+Como, por exemplo, a valva atrioventri-
+cular esquerda.
+@@ Válvula.
+Pequena valva. Lâmina em forma semi-
+lunar de um sistema valvar como, por exemplo,
+as válvula semilunares.
+@@ Cúspide.*
+Lâmina pontiaguda de um sistema
+valvar como, por exemplo, a cúspide anterior.
+@@ Válvula venosa.
+Válvula de uma veia.
+@@ Vaso anastomótico.
+Vaso transversal de liga-
+ção.
+@@ Vaso capilar.
+@@ Vaso colateral.
+Vaso que se desvia do vaso ori-
+ginal.
+@@ Vaso sinusóide.
+Segmento especial de um vaso,
+de parede fi na e grande lume.
+@@  Vasos dos vasos.
+Vasos sanguí
+neos que suprem
+a parede do vaso.
+@@  Vasos dos nervos.
+Vasos que suprem o nervo.
+@@ Veia.
+@@ Veia acompanhante.
+Seu trajeto a liga funcio-
+nalmente a uma artéria.
+@@ Veia cutânea.
+Veia da pele.
+@@ Veia emissária.
+Veia que, atravessando os os-
+sos, se direciona para fora do crânio.
+@@ Veia nutrícia.
+Vaso para o suprimento tecidual.
+@@ Veia profunda.
+Veia situada sob a fáscia.
+@@ Veia superﬁ cial.
+Veia da pele que se situa sobre
+a fáscia dos mem bros.
+@@ Vênula.
+Pequena veia diretamente após o capi-
+lar.
+@@ Vaso linfático.
+@@  Vaso linfático superﬁ cial.
+Vaso linfático que se
+situa sobre a fáscia dos membros.
+@@  Vaso linfático profundo.
+Vaso linfático que se si-
+tua sob a fáscia dos membros e geralmente tem
+curso com os vasos sangüíneos.
+@@ Plexo linfático.
+Rede profunda de capilares linfá-
+ticos como, por exemplo, na derme da pele e sob
+ela.
+@@ Válvula linfática.
+Válvula de um vaso linfático.
+@@ Linfa.
+@@ Capilar linfático.
+Sua extremidade inicial é fe-
+chada, e sua parede é permeável.
+@@ Rede linfática.
+Rede de capilares linfáticos perto
+de sua origem.
+@@ Neuroﬁ bra.
+Fibra nervosa (axônio).
+@@ Neurônio.
+Célula nervosa.
+@@ Pericário.
+Corpo celular do neurônio.
+@@ Sinapse.
+Local de contato de uma célula nervo-
+sa com outra célula nervosa ou com outro tipo
+de célula.
+@@ Neuróglia.
+Tecido intersticial do sistema ner-
+voso.
+@@ Substância cinzenta.
+O conjunto das células
+nervosas.
+@@ Núcleo.
+Acúmulo de neurônios fora do córtex.
+@@  Núcleo dos nervos cranianos.
+@@  Núcleo de origem.
+@@  Núcleo de terminação.
+@@ Coluna.
+Acúmulo de neurônios em forma de co-
+luna como, por exemplo, na medula espinal.
+@@ Lâmina.
+Camada de tecido nervoso em forma de
+placa como, por exemplo, os estratos do isocór-
+tex (lâminas do neocórtex).
+@@ Substância branca.
+Conjunto das fi bras nervo-
+sas mielínicas.
+@@ Funículo.
+Estrutura de tecido nervoso em forma
+tubular. Via nervosa.
+@@ Trato.
+Acúmulo de fi bras nervosas com origem e
+término comuns. Nele também podem transitar
+outras fi bras nervosas.
+@@ Fascículo.
+Acúmulo bem delimitado de fi bras
+nervosas. O fascículo pode conter mais de um
+trato.
+@@ Comissura.
+Feixe delimitado de fi bras nervosas
+que une entre si áreas semelhantes de cada he-
+misfério cerebral.
+@@ Lemnisco.
+Termo específi co para fi bras nervosas
+sensitivas ascendentes no tronco encefálico.
+@@ Fibra.
+Axônio mielínico.
+@@  Fibra de associação.
+Une áreas corticais do mes-
+mo hemisfério.
+@@ Fibra comissural.
+Une áreas corticais de ambos os
+hemisférios.
+@@  Fibra de projeção.
+Une áreas corticais com áreas
+subcorticais. Fibras nervosas corticopetais e cor-
+ticofugais.
+@@ Decussação.
+Via nervosa cruzada. No seu curso,
+suas fi bras nervosas cruzam a linha mediana.
+@@ Estria.
+Durante o desenvolvimento dos hemisfé-
+rios, seus neurônios crescem mais rapidamente
+e separam áreas celulares preexistentes. Tomam
+a aparência de uma fi ta.
+@@ Formação reticular.
+Células nervosas dispersas,
+fi bras nervosas e sinapses, com apenas poucos
+centros. Infl uencia, entre outros, os movimen-
+tos, a circulação, a respiração e o ritmo circadia-
+no (ritmo sono-vigília).
+@@ Epêndima.
+Revestimento celular das cavidades
+do sistema ner voso central (sistema ventricu-
+lar).
+@@  Fissuras do cerebelo.
+Sulcos ramifi cados situa-
+dos profundamente entre giros do cerebelo.
+@@  Folhas do cerebelo.
+Giros do cerebelo separados
+por fi ssuras.
+@@  Hemisfério do cerebelo (H II-H X).
+Cada uma das
+metades do cerebelo.
+@@  Valécula do cerebelo.
+Sulco inferior mediano
+profundo situado entre os hemisférios direito e
+esquerdo. Nela se encaixa o bulbo.
+@@  Verme do cerebelo (I-X).
+Parte ímpar do cerebe-
+lo, entre os hemisférios. Parte fi logenética anti-
+ga.*
+Deriva do prosencé-
+falo.
+<text top="118" left="298" width="98" height="9" font="20"> HEMISFÉRIO CEREBRAL.</text>
+Cada uma das metades
+do cérebro.
+@@ Pálio.
+O córtex cerebral. A parte dos hemisférios
+cerebrais que envolve a maior parte do tronco
+encefálico.
+@@  Giros do cérebro.
+Circunvoluções cerebrais, com
+aproximadamente 1 cm de largura.
+@@  Lobos do cérebro.
+As quatro divisões*** (lobos)
+do telencéfalo: lobos frontal, parietal, temporal
+e occipital.
+@@  Sulcos do cérebro.
+Fendas entre os giros do cé-
+rebro.
+@@  Fissura longitudinal do cérebro.
+Fenda mediana,
+longa e profunda, situada entre os hemisférios
+direito e esquerdo do cérebro. Contém a foice do
+cérebro.
+@@  Fissura transversa do cérebro [[Fissura teledien-
+@@cefálica]].
+Fenda situada sob o corpo caloso e o
+fórnice, assim como sobre o tálamo e o teto do
+terceiro ventrículo.
+@@  Fossa lateral do cérebro.
+Espaço na profundida-
+de do sulco lateral.
+@@ Margem superior.
+Margem superior de um
+hemisfério, entre a face súpero-lateral e a face
+inferior.
+@@ Margem ínfero-medial.
+Margem inferior e late-
+ral de um hemisfério, entre a face súpero-lateral
+e a face inferior.
+@@ Margem ínfero-lateral.
+Margem inferior e me-
+dial de um hemisfério, entre a face inferior e a
+face medial.
+Inicia-
+se na superfície do encéfalo e na superfície da
+medula espinal.
+@@ Gânglio.
+Acúmulo de corpos de células nervo-
+sas e, portanto, um espessamento macroscópico
+de um nervo.
+@@  Cápsula do gânglio.
+Tecido conectivo externo (en-
+voltório) de um gânglio.
+@@  Estroma do gânglio.
+Tecido conectivo interno de
+um gânglio.
+@@  Gânglio craniospinal sensitivo.
+Termo coletivo
+para os dois gânglios descritos a seguir.
+@@  Gânglio sensitivo de nervo espinal.
+Gânglio perten-
+cente à raiz posterior.
+@@ Gânglio sensitivo de nervo craniano.
+Gânglio,
+equivalente ao espinal, dos nervos cranianos.
+@@ Gânglio visceral.
+Gânglio do sistema nervoso
+autônomo.
+@@  Fibras nervosas pré-ganglionares.
+Fibras nervosas
+mielínicas que se dirigem para os gânglios dos
+ner vos viscerais.
+@@  Fibras nervosas pós-ganglionares.
+Fibras nervosas
+amielínicas dos gânglios viscerais que se diri-
+gem para as vísceras.
+@@ Gânglio simpático.
+Representado, entre outros,
+principalmente pelo tronco simpático.
+@@ Gânglio parassimpático.
+Como, por exemplo, o
+gânglio ciliar.
+@@ Nervo.
+@@ Endoneuro.
+Tecido conectivo frouxo que se es-
+tende entre as membranas basais dos neuritos.
+@@ Perineuro.
+Tecido conectivo que envolve os fei-
+xes de neuritos de um nervo periférico, que con-
+siste em lamelas concêntricas de células epiteli-
+óides de tecido conectivo. Barreira de difusão.
+@@ Epineuro.
+Tecido conectivo que envolve externa-
+mente um nervo.
+@@  Fibras nervosas aferentes.
+Fibras nervosas que
+penetram no sistema nervoso central.
+@@  Fibras nervosas eferentes.
+Fibras nervosas que
+saem do sistema nervoso central.
+@@  Fibras nervosas somáticas.
+São opostas aos ner-
+vos do sistema nervoso autônomo, isto é, aos
+nervos viscerais.
+@@  Fibras nervosas viscerais.
+Fibras dos nervos visce-
+rais.
+@@ Nervo motor.
+Nervo que tem fi bras  nervosas
+apenas para a musculatura. Fibras nervosas
+aferentes, por exemplo, dos fusos musculares,
+não são consideradas nesta denominação.
+@@ Nervo sensitivo.
+Contém fi bras nervosas aferen-
+tes que se dirigem ao sistema nervoso central
+partindo das terminações nervosas. Na língua
+alemã, a habitual diferença entre sensitivo e
+sensorial não aparece na Terminologia Anatô-
+mica. O termo sensorial, em alemão, refere-se à
+aferência de áreas restritas como, por exemplo,
+nariz, olho, orelha e áreas gustativas.*
+@@ Nervo misto.
+Nervo com fi bras motoras e sen-
+sitivas. Mas o termo pode também signifi car
+nervo com parte somáti ca e parte visceral.
+@@ Ramo cutâneo.
+Nervo ou ramo que se dirige para
+a pele.
+@@ Ramo articular.
+Nervo ou ramo que se dirige
+para uma articulação.
+@@ Ramo muscular.
+Nervo ou ramo que se dirige
+para os músculos.
+@@ Nervo espinal.
+Origina-se da união de uma raiz
+anterior e uma raiz posterior.
+@@ Radículas.
+Delgadas fi bras nervosas eferentes e
+aferentes da medula espinal: reúnem-se para
+formar, respectivamente, as raízes anterior e
+posterior de um nervo espinal.
+@@ Raiz anterior.
+Raiz motora.
+@@ Raiz posterior.
+Raiz sensitiva.
+@@  Tronco do nervo espinal.
+Parte entre a união das
+duas raízes e a emergência do primeiro ramo.
+@@ Ramo meníngeo.
+Origina-se anteriormente no
+nervo espinal e, através do forame interverte-
+bral, se volta em direção da meninge espinal,
+onde se une com outros ramos meníngeos para
+formar uma rede. É sensitivo e simpático.
+@@ Ramo comunicante.
+Ramo de ligação entre o ner-
+vo espinal e o tronco simpático.
+@@ Ramo anterior.
+Ramo mais espesso do nervo
+espinal. Com outros segmentos adjacentes, ele
+pode formar um plexo. Na região torácica, origi-
+na os nervos intercostais.
+@@ Ramo posterior.
+Ramo mais delgado para a pele e
+para a musculatura do dorso.
+@@ Cauda eqüina.
+Conjunto das raízes descenden-
+tes dos nervos espinais, a partir de L1 ou L2,
+com o fi lamento terminal.
+@@  Plexo nervoso espinal.
+Rede nervosa presente nas
+regiões cervical, lombar e sacral, da qual se ori-
+ginam os nervos para os membros.
+@@ Nervo craniano.
+@@ Nervo visceral.
+Nervo para o suprimento das
+vísceras.
+@@ Ramo visceral.
+Ramo nervoso para o suprimen-
+to das vísceras.
+@@ Plexo autônomo.**
+@@ Plexo visceral.
+Plexo do sistema nervoso autô-
+nomo.
+@@ Plexo vascular.
+Rede de vasos com fi bras nervo-
+sas sensitivas e viscerais.
+@@ Plexo periarterial.
+Rede de nervos situada na tú-
+nica externa (adventícia) das artérias.
+@@  Nervos dos vasos.
+Ossos.
+@@ Neurocrânio.
+Parte do crânio que contém o en-
+céfalo.
+@@ Viscerocrânio.
+Parte do crânio que contém a
+face. O limite com o neurocrânio é uma linha
+que inicia na raiz do nariz, passa sobre a mar-
+gem superior da órbita e atinge o poro acústico
+externo.
+@@ Condrocrânio.
+Embriologicamente, parte carti-
+lagínea do crânio, a futura base do crânio.
+@@ Desmocrânio.
+Conjunto dos ossos do crânio
+que se formam por meio de ossifi cação direta.
+@@  Periósteo externo do crânio.
+Periósteo da super-
+fície externa do crânio.
+@@ Norma frontal.
+Vista anterior do crânio. A
+@@ Fronte.
+Testa A, F
+@@ Násio.
+Ponto médio da interseção do frontal e o
+osso nasal. A, F
+@@ Norma vertical.
+Vista superior do crânio. C
+@@ Occipício.
+Nuca C, F
+@@ Vértice.
+Ponto mediano mais elevado da calvá-
+ria. F
+@@ Bregma.
+Ponto de encontro das suturas sagital
+e coronal. C
+@@ Norma occipital.
+Vista posterior do crânio. B
+@@ Lambda.
+Ponto de encontro das suturas lamb-
+dóidea e sagital. B
+@@ Ínio.
+Ponto mais saliente da protu berância occi-
+pital externa. Ponto de medida antropométrica.
+@@ Norma lateral.
+Vista lateral do crânio. F
+@@ Ptério.
+Área de encontro dos ossos frontal, pa-
+rietal, temporal e esfenóide. F
+@@ Astério.
+Ponto de encontro das suturas lamb-
+dóidea, parietomastóidea e occipitomastóidea.
+@@ Gônio.
+Ponto no ângulo da mandíbula localiza-
+do mais inferior, posterior e lateralmente.
+@@ Fossa temporal.
+Fossa rasa situada na parede
+lateral do crânio, das linhas temporais até o ní-
+vel da crista infratemporal e, lateralmente, até a
+margem inferior do arco zigomático. F
+@@ Arco zigomático.
+Formado pela união do pro-
+cesso zigo mático do temporal com o processo
+temporal do zigomático. F
+@@ Fossa infratemporal.
+Continuação inferior da
+fossa temporal, que se estende medialmente até
+o processo pterigóide. É preenchida pela parte
+inferior do músculo temporal, músculo pterigói-
+deo lateral, vasos e nervos. F
+@@ Fossa pterigopalatina.
+Continuação medial da
+fossa infratemporal, entre o túber da maxila, a
+lâmina perpendicular do palatino e o processo
+pterigóideo. Inferiormente, a fossa pterigopa-
+latina se estreita para formar o canal palatino
+maior. F, G, H
+@@ Fissura pterigomaxilar.
+Variável, geralmente
+é uma ligação entre a fossa infratemporal e a
+fossa pterigopalatina, estando limitada pelo tú-
+ber da maxila e pela lâmi na lateral do processo
+pterigóide. G, H
+@@  Fontículos do crânio.
+Lacunas obliteradas por
+membrana entre os ossos do crânio infantil. J,
+@@ Fontículo anterior
+Lacuna romboidal localizada
+anterior mente na sutura sagital entre os esbo-
+ços dos ossos temporal e frontal. Oblitera-se no
+<text top="264" left="307" width="3" height="6" font="21">o</text>
+-3
+<text top="264" left="319" width="3" height="6" font="21">o</text>
+anos de vida. J, K
+@@ Fontículo posterior.
+Lacuna triangular na união
+das suturas sagital e lambdóidea, e também
+entre os temporais e o occipital. Oblitera-se por
+volta do 3
+<text top="311" left="343" width="3" height="6" font="21">o</text>
+mês após o nascimento. J, K
+@@ Fontículo ântero-lateral.
+Lacuna lateral no crâ-
+nio, entre os ossos frontal, parietal, temporal e
+esfenóide. J
+@@ Fontículo póstero-lateral.
+Lacuna lateral entre os
+ossos parietal, occipi tal e temporal. J
+@@ Calvária.
+Longitudinal e transversalmente, o
+teto abobadado do crânio. É formada pela es-
+cama frontal, ossos parietais e parte superior da
+escama occipital. D
+@@ Lâmina externa.
+Lâmina externa da calvária, que
+corresponde à substância compacta. D, E
+@@ Díploe.
+Parte óssea que corresponde à substân-
+cia esponjosa, entre as lâminas externa e inter-
+na, especialmen te nos ossos do crânio. D, E
+@@ Canais diplóicos.
+Largos canais venosos na dí-
+ploe. E
+@@ Lâmina interna.
+Lâmina interna da calvária que
+corresponde à substância compacta. D, E
+@@  Sulco do seio sagital superior.
+Sulco raso para o
+seio. D, E
+@@  Fovéolas granulares (Pacchioni).
+Fossetas ocupadas
+pelas granulações aracnóideas. D, E
+@@ Sulcos venosos.
+Sulcos ocasionais para o percur-
+so de veias, na parede interna do parietal.
+@@ Sulcos arteriais.
+Sulcos na parede interna do crâ-
+nio, em especial aqueles para a artéria menín-
+gea média e seus ramos. D
+@@  Osso sutural. Osso articular inconstante nas suturas 
+@@do crânio.
+@@  Base do crânio.
+@@  Base interna do crânio. 
+Face interna da base do
+crânio. A
+@@  Fossa anterior do crânio.
+Estende-se da parede do
+frontal até a asa menor do esfenóide. A
+@@ Impressões dos giros.
+Sulcos planos que
+correspon dem aos giros do cérebro. A
+@@  Fossa média do crânio.
+Estende-se da asa menor
+do esfenóide até a margem superior da parte pe-
+trosa do temporal. A
+@@  Fossa posterior do crânio.
+Estende-se da margem
+superior da parte petrosa do temporal até a pa-
+rede do occipital. A
+@@ Clivo.
+Segmento de osso que desce poste-
+riormente entre a sela turca e o forame magno.
+É formado pelo occipital e esfenóide. A, B
+@@ Fissura esfenopetrosa.
+Continuação medial da fi s-
+sura petroescamosa. Sua extensão forma o fo-
+rame lacerado. Passagem para o nervo petroso
+menor. Emergência craniana da corda do tímpa-
+no. A, B
+@@ Fissura petroccipital.
+Localiza-se medialmente,
+continuando o forame jugular, entre a parte pe-
+trosa do temporal e o occipital. A, B
+@@  Base externa do crânio.
+Face externa da base do
+crânio. B
+@@ Forame jugular.
+Orifício coberto com tecido fi bro-
+so, dividido entre o occipital e a parte petrosa
+do temporal. Desembocadura do seio sigmóideo
+e do seio petroso infe rior. Passagem para a veia
+jugular interna e para os nervos IX, X e XI. A, B
+@@ Forame lacerado
+Orifício de limites irregulares,
+coberto com cartilagem fi brosa, situado no meio
+da fossa do crânio, entre o ápice da parte petro-
+sa do temporal e o esfenóide. Passagem para os
+nervos petroso profundo e petroso maior. A, B
+@@ Palato ósseo.
+@@  Canal palatino maior.
+Canal para a artéria palati-
+na descendente e o nervo palatino maior, forma-
+do pelo palatino e pela maxila. B, C
+@@  Forame palatino maior.
+Localiza-se próximo à
+margem posterior do palato ósseo, entre o pa-
+latino e a maxila. Término do canal palatino
+maior. B, C
+@@  Forames palatinos menores.
+Desembocaduras dos
+canais palatinos menores. C
+@@ Fossa incisiva.
+Fosseta do tamanho da cabeça de
+um pali to de fósforo, obliterada por uma lâmi-
+na epitelial, na qual desemboca o canal incisivo
+com seu forame incisivo. C
+@@ Canal incisivo.
+Inicia-se no soalho da cavidade
+nasal, ao lado do processo vaginal do esfenóide,
+e desemboca no teto da cavidade oral, na fossa
+incisiva. C
+@@ Forames incisivos.
+De dois a quatro orifícios de
+desembocadura dos canais incisivos. C
+@@ Toro palatino.
+Elevação longitudinal inconstante,
+na linha mediana do palato duro, que se projeta
+em direção à cavidade oral. C
+@@ Canal palatovaginal.
+Canal estreito entre o proces-
+so vaginal do esfe nóide e o processo esfenoidal
+do palatino, para a passagem de um ramo da ar-
+téria maxi lar e para o ramo faríngeo do gânglio
+pterigopalatino. Ver pág. 40.8
+@@ Canal vomerovaginal.
+Canal estreito entre o pro-
+cesso vaginal do esfe nóide e o vômer, para a
+passagem de um ramo da artéria esfenopalati-
+na. Ver pág. 40.9
+@@ Canal vomerorrostral.
+Canalículo entre o vômer e
+o rostro esfenoidal.
+@@ Órbita.
+Cavidade óssea com o bulbo do olho e
+suas estruturas acessórias.
+@@ Cavidade orbital.
+Cavidade da órbita. D
+@@ Ádito orbital.
+Abertura anterior da órbita. D
+@@ Margem orbital.
+Margem da órbita.
+@@ Margem supra-orbital.
+Margem superior do ádito
+orbital. D
+@@ Margem infra-orbital.
+Margem inferior do ádito
+orbital. D
+@@ Margem lateral.
+Margem lateral do ádito orbital.
+@@ Margem medial.
+Margem medial do ádito orbi-
+tal. D
+@@ Parede superior.
+Teto da órbita. A
+@@ Parede inferior.
+Soalho da órbita. A
+@@ Parede lateral.
+Parede lateral da órbita. A
+@@ Parede medial.
+Parede medial da órbita. A
+@@ Forame etmoidal anterior.
+Orifício anterior na
+parede medial da órbita, entre o frontal e o et-
+móide, para a pas sagem do nervo e dos vasos
+etmoidais anteriores provenientes da fossa an-
+terior do crânio. A
+@@  Forame etmoidal posterior.
+Orifício posterior na
+parede medial da órbita, entre o frontal e o et-
+móide, para a passagem do nervo e dos vasos
+etmoidais posteriores. A
+@@ Sulco lacrimal.
+Início em forma de sulco do canal
+lacrimonasal. A
+@@  Fossa do saco lacrimal.
+Depressão para o saco la-
+crimal no início do canal lacrimonasal. A
+@@  Fissura orbital superior.
+Fenda superior da órbi-
+ta, entre as asas maior e menor do esfenóide,
+ligando a fossa anterior do crânio à órbita.
+Através dela passam: os nervos oftálmi co, ocu-
+lomotor, troclear e abducente e a veia oftálmica
+superior. A
+@@  Fissura orbital inferior.
+Fenda entre a asa maior
+do esfenóide e a face orbital da maxila, para
+a passagem do nervo zigomático e do nervo
+infra-orbital, acompanhado pelos respectivos
+vasos. A
+@@ Canal lacrimonasal.
+Canal para o ducto lacri-
+monasal, que desemboca no meato nasal infe-
+rior. A
+@@  Cavidade nasal óssea.
+Parte óssea da cavidade
+nasal. A, B
+@@  Septo nasal ósseo.
+Formado pelo vômer e pela
+lâmina perpendicular do etmóide. A
+@@ Abertura piriforme.
+Contorno da abertura nasal
+anterior no crânio ósseo, em forma de pêra. A,
+@@  Meato nasal superior.
+Espaço acima da concha
+nasal média. B
+@@  Meato nasal médio.
+Espaço entre as conchas na-
+sais média e infe rior. B
+@@  Meato nasal Inferior.
+Espaço abaixo da concha
+nasal inferior. B
+@@  Óstio do canal lacrimonasal.
+Orifício do canal la-
+crimonasal no meato nasal inferior. A
+@@  Meato nasal comum.
+Parte da cavidade nasal en-
+tre as conchas nasais e o septo nasal.
+@@ Recesso esfenoetmoidal.
+Espaço, em forma de
+fenda, acima da concha nasal superior. B
+@@ Meato nasofaríngeo.
+Parte da cavidade nasal que
+se estende da mar gem posterior das conchas na-
+sais até os cóanos. B
+@@ Cóano.
+Abertura nasal posterior. As duas aber-
+turas entre a cavidade nasal e a parte nasal da
+faringe. B
+@@ Forame esfenopalatino.
+Orifício superior na fossa
+pterigopalatina que conduz à cavidade nasal. A
+maior parte é formada pelo palatino, e a menor,
+pelo esfenóide. B

@@ -1,0 +1,103 @@
+{% extends "parent.html" %}
+
+
+{% block body %}
+    <form method="POST" action="/doenca/{{designacao}}/editar">
+
+        <input class="bg-warning-subtle text-warning-emphasis border border-warning-subtle form-control mb-3" type="text" value="Conceito: {{designacao}}" aria-label="Disabled input example" disabled readonly>
+        <input class="bg-warning-subtle text-warning-emphasis border border-warning-subtle form-control mb-3" type="text" value="Categoria: {{categoria}}" aria-label="Disabled input example" disabled readonly>
+        <input class="bg-warning-subtle text-warning-emphasis border border-warning-subtle form-control mb-3" type="text" value="Descrição: {{descricao}}" aria-label="Disabled input example" disabled readonly>
+
+        {% if descricao_2 %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Outra Descrição: {{descricao_2}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+        {% if descricao_sns %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Descrição SNS: {{descricao_sns}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+        {% if descricao_utilizador %}
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" type="text" value="Descrição Utilizador: {{descricao_utilizador}}" aria-label="Disabled input example" disabled readonly>
+        {% endif %}
+
+        {% if traducoes %}
+            <h2 class="pt-5"> Traduções da Palavra: </h2>
+            {% if traducoes_ar %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Árabe: {{ traducoes_ar }}" aria-label="Disabled input example" disabled readonly>
+            {% endif %}
+            {% if traducoes_de %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Alemã: {{ traducoes_de }}" aria-label="Disabled input example" disabled readonly>
+            {% endif %} 
+            {% if traducoes_es %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Espanhola: {{ traducoes_es }}" aria-label="Disabled input example" disabled readonly>
+            {% endif %}
+            {% if traducoes_fr %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Francesa: {{ traducoes_fr }}" aria-label="Disabled input example" disabled readonly>
+            {% endif %}              
+            {% if traducoes_ja %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Japonesa: {{ traducoes_ja }}" aria-label="Disabled input example" disabled readonly>            
+            {% endif %}
+            {% if traducoes_ko %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Coreana:{{ traducoes_ko }}" aria-label="Disabled input example" disabled readonly>            
+            {% endif %}   
+            {% if traducoes_ru %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Russa:{{ traducoes_ru }}" aria-label="Disabled input example" disabled readonly>            
+            {% endif %}
+            {% if traducoes_zh %}
+                <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Chinesa:{{ traducoes_zh }}" aria-label="Disabled input example" disabled readonly>
+            {% endif %} 
+        {% endif %}
+
+        {% if traducoes_rel %}
+            <h2 class="pt-5"> Palavra Relacionada: {{ traducoes_rel_pt }}</h2>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Árabe: {{ traducoes_rel_ar }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Alemã: {{ traducoes_rel_de }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Espanhola: {{ traducoes_rel_es }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Francesa: {{ traducoes_rel_fr }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Japonesa: {{ traducoes_rel_ja }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Coreana: {{ traducoes_rel_ko }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Russa: {{ traducoes_rel_ru }}" aria-label="Disabled input example" disabled readonly>
+            <input class="bg-info-subtle text-info-emphasis border border-info-subtle form-control mb-3" value= "Tradução Relacionada Chinesa: {{ traducoes_rel_zh }}" aria-label="Disabled input example" disabled readonly>            
+        {% endif %}
+
+        <div class="input-group mt-5 mb-5">
+            <span class="bg-warning-subtle text-warning-emphasis border border-warning-subtle input-group-text" id="inputGroup-sizing-default">Descrição Utilizador </span>
+            <input type="text" name="descricao_utilizador" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <!-- ATUALIZAR CATEGORIA  -->
+        <div class="input-group mt-5 mb-3">
+            <label class="bg-info-subtle text-info-emphasis border border-info-subtle input-group-text" for="inputGroupSelect01">Categorias</label>
+            <select class="form-select" id="inputGroupSelect01" name="categoria">
+              <option value = "vazio" selected>Opcoes...</option>
+              {% for categoria in lista_categorias %}
+                <option value="{{ categoria }}">{{ categoria }}</option>
+              {% endfor %}
+            </select>
+        </div>
+
+        <!-- CRIA NOVAS TRADUÇÕES -->
+        <div class="input-group mt-5 mb-3">
+            <label class="bg-info-subtle text-info-emphasis border border-info-subtle input-group-text" for="inputGroupSelect01">Línguas</label>
+            <select class="form-select" id="inputGroupSelect01" name="nova_lingua">
+              <option value = "vazio" selected>Opcoes...</option>
+              <option value="EN">EN</option>
+              <option value="AR">AR</option>
+              <option value="DE">DE</option>
+              <option value="ES">ES</option>
+              <option value="ES">ES</option>
+              <option value="FR">FR</option>
+              <option value="JA">JA</option>
+              <option value="KO">KO</option>
+              <option value="RU">RU</option>
+              <option value="ZH">ZH</option>
+            </select>
+        </div>
+        
+        <div class="input-group mb-3">
+            <span class="bg-info-subtle text-info-emphasis border border-info-subtle input-group-text" id="inputGroup-sizing-default">Tradução </span>
+            <input type="text" name="lingua_descricao" class="form-control" aria-label="Sizing example input" aria-describedby="inputGroup-sizing-default">
+        </div>
+
+        <button type="submit" class="btn btn-success">Editar</button>
+        <!-- <button type="submit">Enviar</button> -->
+    </form>
+{% endblock %}

@@ -1,0 +1,16 @@
+{% extends "parent.html" %}
+
+{% block body %}
+
+    <!-- Expõe os conceitos de cada categoria -->
+    <div>
+        <h1 class="d-grid gap-2 d-sm-flex justify-content-sm-center">Categoria: {{ categoria }}</h1>
+    </div>
+
+    <div class="list-group mt-5 ">
+        {% for conceito, detalhes in conceitos.items() %}
+        <a href="/doenca/{{ conceito }}" class="list-group-item list-group-item-action list-group-item-info">{{ conceito }}</a>
+        {% endfor %}
+    </div>
+    <a class="mt-4 btn btn-outline-info" href="/categorias" role="button">Retroceder</a>
+{% endblock %}
